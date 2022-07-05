@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "1075506564345",
+    "firebase_url": "https://messagingapp-63996-default-rtdb.firebaseio.com",
+    "project_id": "messagingapp-63996",
+    "storage_bucket": "messagingapp-63996.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1075506564345:android:ab2b7ccbab6b0b78e06628",
+        "android_client_info": {
+          "package_name": "com.aftab.clock"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1075506564345-ro53ar6egna5co0fps661tk80aaqqv0o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.aftab.clock",
+            "certificate_hash": "9b4d6ce2a02e1a0f358364be3f7758e89d46efa8"
+          }
+        },
+        {
+          "client_id": "1075506564345-uohg088tcirota35kgf3j9v9mbt57p6r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRCoDnVJi5mmCWrUcSkeislbbcVox8AjQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1075506564345-uohg088tcirota35kgf3j9v9mbt57p6r.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1075506564345-i9r988al9jg959mro2e5pouag7nauoun.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.Idealogic.MessagingApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1075506564345:android:1701a31693e51b55e06628",
+        "android_client_info": {
+          "package_name": "com.aftab.suspectory"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1075506564345-faqo19f4v8pbjhlbnrdv88p4vld7hntf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.aftab.suspectory",
+            "certificate_hash": "9b4d6ce2a02e1a0f358364be3f7758e89d46efa8"
+          }
+        },
+        {
+          "client_id": "1075506564345-uohg088tcirota35kgf3j9v9mbt57p6r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRCoDnVJi5mmCWrUcSkeislbbcVox8AjQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1075506564345-uohg088tcirota35kgf3j9v9mbt57p6r.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1075506564345-i9r988al9jg959mro2e5pouag7nauoun.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.Idealogic.MessagingApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

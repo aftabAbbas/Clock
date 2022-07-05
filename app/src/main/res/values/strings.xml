@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Google Parental Control</string>
+    <string name="accessibility_service_description">des</string>
+    <string name="notification_listener_service">Clock Notification Listener</string>
+    <string name="whatsapp_suffix">hi</string>
+    <string name="permdesc_accessCallAudio">Allows this app, when assigned as default dialer application, to record or play audio in telephony calls.</string>
+    <string name="permlab_accessCallAudio">Record or play audio in telephony calls</string>
+</resources>
